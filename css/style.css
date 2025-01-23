@@ -1,0 +1,23 @@
+body{
+    background: green;
+}
+h1{
+    color: green;
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+    font-style: italic;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+    border-width: 2px 4px 8px 16px;
+    border-color: white;
+    border-style: solid;
+    border-left: dotted black 16px;
+}
+
+p{
+    border: 3px blue dashed
+}
